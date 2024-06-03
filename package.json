@@ -1,0 +1,16 @@
+{
+    "name": "missionchief-server",
+    "version": "1.0.0",
+    "description": "Missionchief management dashboard",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.19.2",
+        "nodemon": "^3.1.0",
+        "puppeteer": "^22.10.0"
+    }
+}
